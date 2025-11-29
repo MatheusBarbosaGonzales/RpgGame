@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using rpgGame;
+
+while (Globals.gameRunning)
+{ 
+    Menu.writeMenuOptions(Globals.menuValue);
+    Menu.menuController(Globals.menuValue);
+    
+    
+    Console.Clear();
+}
+
+

@@ -1,0 +1,14 @@
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\bin\Debug\net8.0\rpgGame.exe
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\bin\Debug\net8.0\rpgGame.deps.json
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\bin\Debug\net8.0\rpgGame.runtimeconfig.json
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\bin\Debug\net8.0\rpgGame.dll
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\bin\Debug\net8.0\rpgGame.pdb
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.dll
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\refint\rpgGame.dll
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.pdb
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\rpgGame.genruntimeconfig.cache
+C:\Users\mathe\RiderProjects\JogoRPG\rpgGame\obj\Debug\net8.0\ref\rpgGame.dll
